@@ -1,0 +1,29 @@
+{
+  "createRequest": {
+    "name": "Haseem",
+    "address": "Rest",
+    "marks": 55
+  },
+  "updateRequest": {
+    "name": "Haseem",
+    "address": "whitefield",
+    "marks": 55
+  },
+  "MultipleRequest": [
+    {
+      "name": "Haseem",
+      "address": "whitefield",
+      "marks": 55
+    },
+    {
+      "name": "Anand",
+      "address": "horsestreet",
+      "marks": 85
+    },
+    {
+      "name": "Anand",
+      "address": "horsestreet",
+      "marks": 84
+    }
+  ]
+}
